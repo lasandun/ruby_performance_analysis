@@ -1,6 +1,7 @@
 #include <time.h>
 #include <stdio.h>
 #include <malloc.h>
+
 clock_t begin, end;
 double time_spent;
 
